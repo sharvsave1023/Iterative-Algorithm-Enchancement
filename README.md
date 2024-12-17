@@ -1,5 +1,5 @@
 # Overview
-Scientific study tracking the change in a machine learning model's accuracy rates as a result of incrementing the number of randomized features that are being used.
+Scientific study tracking the change in a machine learning model's accuracy rates as a result of incrementing the number of randomized features that are being used. 2022-2023 AP Research project. 
 
 ## Task
 The task selected to test this study on is the prediction of Parkinson's Disease in a patient by various correlated vocal measures. Data is sourced from the UC Irvine Machine Learning Repository.
